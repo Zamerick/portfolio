@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" style="display:none">
+    <symbol id="cheveron-down" viewBox="0 0 20 20">
+        <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" style="color:white"/>
+    </symbol>
+    <symbol id="cheveron-right" viewBox="0 0 20 20">
+        <path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z" style="color:white"/>
+    </symbol>
+    <symbol id="cheveron-up" viewBox="0 0 20 20">
+        <path d="M10.707 7.05L10 6.343 4.343 12l1.414 1.414L10 9.172l4.243 4.242L15.657 12z" style="color:white"/>
+    </symbol>
+    <symbol id="cheveron-left" viewBox="0 0 20 20">
+        <path d="M7.05 9.293L6.343 10 12 15.657l1.414-1.414L9.172 10l4.242-4.243L12 4.343z" style="color:white"/>
+    </symbol>
+    <symbol id="twitter" viewBox="0 0 125 125">
+        <polyline id="twitter_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#6ecbef;fill-opacity:0.5"/>
+        <polyline id="twitter_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#6ecbef;fill-opacity:0.5"/>
+        <path id="twitter_logo" d="M84.87,44.72a20.14,20.14,0,0,1-5.81,1.59,10.13,10.13,0,0,0,4.44-5.59,20.23,20.23,0,0,1-6.42,2.45,10.12,10.12,0,0,0-17.22,9.22A28.69,28.69,0,0,1,39,41.83a10.12,10.12,0,0,0,3.13,13.49,10.07,10.07,0,0,1-4.58-1.26s0,.08,0,.13a10.11,10.11,0,0,0,8.11,9.91,10.13,10.13,0,0,1-4.56.17,10.12,10.12,0,0,0,9.44,7A20.28,20.28,0,0,1,38,75.62a20.7,20.7,0,0,1-2.41-.14A28.61,28.61,0,0,0,51.1,80c18.59,0,28.76-15.4,28.76-28.76,0-.44,0-.87,0-1.31A20.52,20.52,0,0,0,84.87,44.72Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="twitter_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#6ecbef;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+    </symbol>
+    <symbol id="linkedin" viewBox="0 0 125 125">
+        <polyline id="linkedin_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#5cacdf;fill-opacity:0.5"/>
+        <polyline id="linkedin_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#5cacdf;fill-opacity:0.5"/>
+        <path id="linkedin_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#5cacdf;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path id="linkedin_i" d="M44.2,39.66a3.92,3.92,0,0,1-7.85,0,3.86,3.86,0,0,1,4-4A3.76,3.76,0,0,1,44.2,39.66ZM37.14,84.3V49.45h6.34V84.3Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="linkedin_n" d="M54,58.88c0-3.6-.07-6.55-.29-9.43h5.62l.36,5.76h.14a12.82,12.82,0,0,1,11.52-6.55c4.82,0,12.31,2.88,12.31,14.83V84.3H77.32V64.21c0-5.62-2.09-10.3-8.07-10.3a9,9,0,0,0-8.5,6.48,9.11,9.11,0,0,0-.43,3v21H54Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+    </symbol>
+    <symbol id="github" viewBox="0 0 125 125">
+        <polyline id="git_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill: #bbbbbb; fill-opacityL 0.5;"/>
+        <polyline id="git_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill: #ffffff; fill-opacityL 0.5;"/>
+        <path id="git_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#ffffff;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <circle id="git_black_circle" cx="52.5" cy="58.49" r="30" style="fill:#000000"/>
+        <path id="git_silhouette" d="M60,29.5c-16.57,0-30,13.77-30,30.76A30.71,30.71,0,0,0,50.52,89.45c1.5.28,2-.67,2-1.48s0-3.16,0-5.73c-8.35,1.86-10.11-3.63-10.11-3.63-1.36-3.56-3.33-4.5-3.33-4.5-2.72-1.91.21-1.87.21-1.87,3,.22,4.6,3.17,4.6,3.17,2.68,4.7,7,3.34,8.73,2.56a6.61,6.61,0,0,1,1.9-4.11c-6.66-.78-13.67-3.42-13.67-15.2a12.07,12.07,0,0,1,3.09-8.26,11.31,11.31,0,0,1,.29-8.14s2.52-.83,8.25,3.15a27.77,27.77,0,0,1,15,0c5.73-4,8.24-3.15,8.24-3.15a11.3,11.3,0,0,1,.29,8.14,12,12,0,0,1,3.09,8.26c0,11.81-7,14.42-13.7,15.18,1.08,1,2,2.83,2,5.7,0,4.12,0,7.43,0,8.44,0,.82.54,1.78,2.06,1.48A30.7,30.7,0,0,0,90,60.26C90,43.27,76.57,29.5,60,29.5Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="git_sucker_1" d="M41.36,73.66a.37.37,0,0,1-.51.09c-.22-.1-.34-.31-.27-.46s.3-.2.52-.1.34.31.27.46ZM41,73.38" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="git_sucker_2" d="M42.58,75.05c-.14.14-.42.07-.61-.14a.48.48,0,0,1-.09-.64c.15-.14.42-.07.62.14s.23.5.09.64Zm-.29-.31" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="git_sucker_3" d="M43.76,76.82c-.18.13-.48,0-.67-.27s-.18-.6,0-.73.48,0,.67.26a.55.55,0,0,1,0,.74Zm0,0" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="git_sucker_4" d="M45.38,78.54c-.16.19-.51.14-.77-.12a.6.6,0,0,1-.17-.79c.17-.19.52-.13.78.12s.34.6.16.79Zm0,0" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="git_sucker_5" d="M47.62,79.53c-.07.24-.41.35-.75.25s-.56-.39-.49-.63.41-.36.75-.25.56.39.49.63Zm0,0" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="git_sucker_6" d="M50.07,79.71c0,.25-.28.46-.64.47s-.65-.2-.65-.45.28-.46.64-.47.65.2.65.45Zm0,0" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="git_sucker_7" d="M52.36,79.32c0,.25-.21.5-.56.57s-.67-.09-.72-.33.21-.51.56-.57.67.09.72.34Zm0,0" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+    </symbol>
+    <symbol id="bitbucket" viewBox="0 0 125 125">
+        <polyline id="bitbucket_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#205081;fill-opacity:0.5"/>
+        <polyline id="bitbucket_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#205081;fill-opacity:0.5"/>
+        <path id="bitbucket_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#205081;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <circle id="bitbucket_logo_circle" cx="52.49" cy="56.91" r="4.14" style="fill:#ffffff"/>
+        <path id="bitbucket_logo_bottom" d="M78.68,72.24a1.21,1.21,0,0,0-.71.28s-6.4,5.07-18,5.07-18-5.07-18-5.07a1.21,1.21,0,0,0-.71-.28.91.91,0,0,0-.92,1,1.2,1.2,0,0,0,0,.22c1,5.32,1.72,9.09,1.85,9.66C43.14,87,50.79,90,60,90h0c9.21,0,16.86-3,17.73-6.86.13-.57.85-4.35,1.85-9.66a1.2,1.2,0,0,0,0-.22A.91.91,0,0,0,78.68,72.24Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="bitbucket_logo_top" d="M60,30h0c-14.31,0-26,3.85-26,8.62,0,1.26,3.12,19.29,4.36,26.45C38.92,68.28,47.21,73,60,73v0c12.78,0,21.07-4.7,21.62-7.91C82.87,57.92,86,39.88,86,38.62,86,33.85,74.31,30,60,30Zm0,37.19a8.26,8.26,0,1,1,8.26-8.26A8.26,8.26,0,0,1,60,67.19Zm0-25.9c-9.19,0-16.64-1.61-16.64-3.57S50.82,34.19,60,34.2s16.64,1.61,16.64,3.57S69.19,41.3,60,41.29Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+    </symbol>
+    <symbol id="gitlab" viewBox="0 0 125 125">
+        <polyline id="gitlab_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#554488;fill-opacity:0.5"/>
+        <polyline id="gitlab_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#554488;fill-opacity:0.5"/>
+        <path id="gitlab_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#554488;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path id="right_ear" d="M86.68,53.6H71.11L77.8,33A1.15,1.15,0,0,1,80,33L86.68,53.6Z" style="fill:#e2452a" transform="translate(-7.5 -2.01)"/>
+        <path id="right_outer_triangle" d="M86.68,53.6h0L90.05,64a2.3,2.3,0,0,1-.84,2.57L60,87.79,86.68,53.6Z" style="fill:#faa327" transform="translate(-7.5 -2.01)"/>
+        <path id="right_middle_triangle" d="M60,87.79,71.11,53.6H86.68L60,87.79Z" style="fill:#f36e2c" transform="translate(-7.5 -2.01)"/>
+        <path id="center_triangle" d="M60,87.79h0L71.11,53.6H48.89L60,87.79Z" style="fill:#e2452a" transform="translate(-7.5 -2.01)"/>
+        <path id="left_middle_triangle" d="M60,87.79,48.89,53.6H33.32L60,87.79Z" style="fill:#f36e2c" transform="translate(-7.5 -2.01)"/>
+        <path id="left_outer_triangle" d="M33.32,53.6h0L29.95,64a2.3,2.3,0,0,0,.84,2.57L60,87.79,33.32,53.6Z" style="fill:#faa327" transform="translate(-7.5 -2.01)"/>
+        <path id="left_ear" d="M33.32,53.6H48.89L42.2,33A1.15,1.15,0,0,0,40,33L33.32,53.6Z" style="fill:#e2452a" transform="translate(-7.5 -2.01)"/>
+    </symbol>
+    <symbol id="portfolio" viewBox="0 0 125 125">
+        <polyline id="portfolio_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#607080;fill-opacity:0.5"/>
+        <polyline id="portfolio_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#607080;fill-opacity:0.5"/>
+        <path id="portfolio_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#353E47;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z" style="fill:#ACB5BF" transform="translate(22.5 25) scale(3)"/>
+    </symbol>
+    <symbol id="envelope" viewBox="0 0 125 125">
+        <polyline id="envelope_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#607080;fill-opacity:0.5"/>
+        <polyline id="envelope_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#607080;fill-opacity:0.5"/>
+        <path id="envelope_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#353E47;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path d="M18 2a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h16zm-4.37 9.1L20 16v-2l-5.12-3.9L20 6V4l-10 8L0 4v2l5.12 4.1L0 14v2l6.37-4.9L10 14l3.63-2.9z" style="fill:#ACB5BF" transform="translate(22.5 25) scale(3)"/>
+    </symbol>
+    <symbol id="pen" viewBox="0 0 125 125">
+        <polyline id="pen_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#607080;fill-opacity:0.5"/>
+        <polyline id="pen_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#607080;fill-opacity:0.5"/>
+        <path id="pen_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#353E47;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path d="M11 9.27V0l6 11-4 6H7l-4-6L9 0v9.27a2 2 0 1 0 2 0zM6 18h8v2H6v-2z" style="fill:#ACB5BF" transform="translate(17.5 20) scale(3.5)"/>
+    </symbol>
+    <symbol id="logo" viewBox="0 0 20 20">
+        <path d="M89.09,42.8,52.26,20.62a4.08,4.08,0,0,0-4.16-.1A4.26,4.26,0,0,0,46,24.25v84.57H50.6V85.25l33-19.41L50.6,47.1V25L86.52,46.65v59.27h4.63V46.43A4.26,4.26,0,0,0,89.09,42.8ZM74.32,65.91l-23.72,14V52.42Z" class="cls-2" style="fill:#3198cc" transform="translate(-10, -15)"/>
+        <path d="M103.7,42.8,66.88,20.62a4.1,4.1,0,0,0-4.17-.1,4.26,4.26,0,0,0-2.12,3.73v84.57h4.63V85.21l33-19.4L65.22,47.06V25l35.91,21.63v59.27h4.63V46.43A4.25,4.25,0,0,0,103.7,42.8ZM88.93,65.88l-23.71,14V52.39Z" style="fill:#fff" transform="translate(-10, -15)"/>
+        <path d="M34.28,127.51A5.45,5.45,0,0,1,29.47,130a5.49,5.49,0,0,1-4.83-2.44A11.62,11.62,0,0,1,23,120.91a14,14,0,0,1,.75-4.77,7,7,0,0,1,2.21-3.23,5.52,5.52,0,0,1,3.54-1.16,5.47,5.47,0,0,1,4.81,2.48,14,14,0,0,1,0,13.28Zm-1.63-12.06a3.37,3.37,0,0,0-3.18-1.83,3.36,3.36,0,0,0-3.18,1.84,11.63,11.63,0,0,0-1,5.45,11.31,11.31,0,0,0,1,5.41,3.39,3.39,0,0,0,3.17,1.81,3.39,3.39,0,0,0,3.18-1.81,11.53,11.53,0,0,0,1-5.43A11.57,11.57,0,0,0,32.65,115.45Z" style="fill:#fff" transform="translate(-10, -15)"/>
+        <path d="M41.07,129.72H38.61l5-7.14-4.39-6.39h2.56l3.13,5,3.16-5h2.49l-4.39,6.29,5,7.24H48.51l-3.72-5.8Z" style="fill:#fff" transform="translate(-10, -15)"/>
+        <path d="M64.21,129.74a7.9,7.9,0,0,1-2,.26,4.68,4.68,0,0,1-3.33-1.12,3.79,3.79,0,0,1-1.21-2.94v-8H54.6v-1.7h3.1v-3l2.16-.26v3.31h4.69l-.28,1.7H59.86v8a2.23,2.23,0,0,0,.61,1.72,2.86,2.86,0,0,0,2,.56,5.4,5.4,0,0,0,2.59-.64l.85,1.46A5.39,5.39,0,0,1,64.21,129.74Z" style="fill:#fff" transform="translate(-10, -15)"/>
+        <path d="M72.69,118.07A5.49,5.49,0,0,1,77,115.91q3.8,0,3.8,4v9.81H78.67v-9.78a2.4,2.4,0,0,0-.56-1.76,2.5,2.5,0,0,0-1.8-.55,3.52,3.52,0,0,0-2,.67,5.91,5.91,0,0,0-1.59,1.56v9.86H70.53V110.78l2.16-.24Z" style="fill:#fff" transform="translate(-10, -15)"/>
+        <path d="M95.39,117.8a9.47,9.47,0,0,1,0,10.26,5.8,5.8,0,0,1-8.61.05,9.42,9.42,0,0,1,0-10.28,5.83,5.83,0,0,1,8.62,0ZM88.45,119a7.27,7.27,0,0,0-.87,4,7.18,7.18,0,0,0,.86,4,3.31,3.31,0,0,0,5.26,0,9.62,9.62,0,0,0,0-8,2.91,2.91,0,0,0-2.61-1.3A3,3,0,0,0,88.45,119Z" style="fill:#fff" transform="translate(-10, -15)"/>
+        <path d="M112.37,116.19l-.31,4.6h-1.74v-2.9h-.13c-2.09,0-3.57,1.48-4.44,4.46v5.7h2.74v1.67h-7v-1.67h2.13V117.86h-2.13v-1.67h3.75l.41,3.21a7,7,0,0,1,2-2.62,4.64,4.64,0,0,1,2.89-.87A7.52,7.52,0,0,1,112.37,116.19Z" style="fill:#fff" transform="translate(-10, -15)"/>
+        <path d="M116.73,116.19h1.85l.18,1.9a5.41,5.41,0,0,1,2-1.6,5.6,5.6,0,0,1,2.45-.58q3.8,0,3.8,4v9.81h-2.16V121.5a12.08,12.08,0,0,0-.17-2.31,2,2,0,0,0-.65-1.18,2.44,2.44,0,0,0-1.49-.38,3.58,3.58,0,0,0-2.08.67,5.73,5.73,0,0,0-1.59,1.59v9.83h-2.16Z" style="fill:#fff" transform="translate(-10, -15)"/>
+    </symbol>
+    <symbol id="home" viewBox="0 0 20 20">
+        <polyline id="home_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#607080;fill-opacity:0.5"/>
+        <polyline id="home_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#607080;fill-opacity:0.5"/>
+        <path id="home_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#353E47;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path style="fill:#ACB5BF" transform="translate(17.5 20) scale(3.5)" d="M8, 20H3V10H0L10, 0l10, 10h-3v10h-5v-6H8v6z"/>
+    </symbol>
+</svg>
