@@ -30,7 +30,7 @@ export default class Sidebar extends Vue {
   list: Array<Object> = [
     { isLink: true, url: "/", icon: "home" },
     { isLink: true, url: "/work", icon: "portfolio" },
-    { isLink: true, url: "/contact", icon: "envelope" },
+    { isLink: true, url: "mailto:zamerick@alex-oxthorn.com", icon: "envelope" },
     { isLink: false, url: "https://www.zamerick.com", icon: "pen" }]
 }
 </script>

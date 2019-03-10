@@ -9,6 +9,7 @@ export async function get (resource: string) {
     const response = await API.get(resource);
     return response.data;
   } catch (err) {
+    // eslint-disable-next-line
     console.log(err); // replace with better error logging solution.
   }
 }
@@ -17,6 +18,7 @@ export async function post (resource: string, payload: any) {
   try {
     const response = await API.post(resource, payload);
   } catch (err) {
+    // eslint-disable-next-line
     console.log(err); // replace with better error logging solution.
   }
 }
@@ -25,6 +27,7 @@ export async function put (resource: string, payload: any) {
   try {
     const response = await API.put(payload.postEndpoint, payload.data);
   } catch (err) {
+    // eslint-disable-next-line
     console.log(err); // replace with better error logging solution.
   }
 }
