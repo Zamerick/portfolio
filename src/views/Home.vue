@@ -11,7 +11,7 @@
         <p class="text-grey-light">
           I'm a full-stack developer with a strong focus on the frontend. I specialize in Vue and Laravel, and I use those tools to make UI's that empowers users, and hopefully, spark at little joy.
           </p><br>
-        <p class="text-grey-light"> If you'd like to learn more about me as a person, you can check out my <a class="text-blue" href="www.zamerick.com">blog</a> where I talk about tech, entrepreneurship and (occassionally) philosophy/social activism.
+        <p class="text-grey-light"> If you'd like to learn more about me as a person, you can check out my <a class="text-blue" href="http://blog.alex-oxthorn.com">blog</a> where I talk about tech, entrepreneurship and (occasionally) philosophy/social activism.
         </p>
       </div>
     </div>

@@ -31,7 +31,7 @@ export default class Sidebar extends Vue {
     { isLink: true, url: "/", icon: "home" },
     { isLink: true, url: "/work", icon: "portfolio" },
     { isLink: true, url: "mailto:zamerick@alex-oxthorn.com", icon: "envelope" },
-    { isLink: false, url: "https://www.zamerick.com", icon: "pen" }]
+    { isLink: false, url: "https://blog.alex-oxthorn.com", icon: "pen" }]
 }
 </script>
 <style lang="stylus">
