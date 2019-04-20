@@ -8,7 +8,7 @@
     <ul id="nav-block" class="hidden list-reset lg:block mt-4 text-center" role="navigation">
       <li role="nav link"> <nav-icon to="/work" icon="portfolio" text="Work" class="ml-2 mb-2"/></li>
       <li role="nav link"> <nav-icon href="mailto:zamerick@alex-oxthorn.com" icon="envelope" text="Contact" class="ml-2 mb-2"/></li>
-      <li role="nav link"> <nav-icon href="https://www.zamerick.com" icon="pen" text="Blog" class="ml-2 mb-2" /></li>
+      <li role="nav link"> <nav-icon href="https://blog.alex-oxthorn.com" icon="pen" text="Blog" class="ml-2 mb-2" /></li>
     </ul>
 
     <ul id="social-block" class="hidden list-reset lg:block mt-4 text-center" role="social media links">
